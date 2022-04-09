@@ -1,0 +1,26 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+h1 {
+    font-family:"trebuchet ms",sans-serif;
+    font-size:350%;
+    color: rgb(66, 66, 151);
+	margin-left: 30%;
+     }
+button {
+	background: rgb(222, 124, 124);
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+	font-size: 16px;
+	transition-duration: .5s;
+	margin-top: 15px;
+}
+
+button:hover {
+	background: white;
+	border: 1px solid green;
+	color: black;
+	cursor: pointer;
+display: inline-block;}
